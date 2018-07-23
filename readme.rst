@@ -1,7 +1,4 @@
-.. raw:: html
-	GO to <a href="https://youtu.be/clkTrY6MgC8">Video</a><br>
-    <iframe width="560" height="315" src="http://www.youtube.com/embed/clkTrY6MgC8?rel=0" frameborder="0" allowfullscreen></iframe>
-
+GO To Video Tutorial (https://youtu.be/clkTrY6MgC8)
 # ci-blade with 
 ## Updated version CodeIgniter 3.1.9 running with Laravel Blade 5.6
 ---
